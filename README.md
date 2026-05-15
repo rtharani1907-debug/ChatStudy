@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+```
+DEVELOPED BY:THARANI RAMESHBABU
+```
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -78,11 +80,12 @@ Client-server chat applications are foundational to real-time communication over
 DEVELOPED BY: THARANI RAMESHBABU
 REG NO      : 212225240170
 
-<img width="1920" height="1080" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/212ddad3-ea1c-45bd-b7aa-c98bc1740e7b" />
+<img width="1920" height="1080" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/8f9f75ce-bfdc-4090-8d21-2e77df81f6d4" />
+
 
 ##SERVER SIDE:
 
-<img width="1920" height="1080" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/0963c748-b3a9-4a90-870f-39f88d88f910" />
+<img width="1920" height="1080" alt="Screenshot (549)" src="https://github.com/user-attachments/assets/793c3ff3-7659-444f-b6b9-632018b90cf4" />
 
 
 ## Result:
